@@ -1,9 +1,9 @@
 import React from 'react';
 // IMG
-import avatar1 from '../../img/avt1.png';
-import avatar2 from '../../img/avt2.png';
-import avatar3 from '../../img/avt3.png';
-import avatar4 from '../../img/avt4.png';
+import avatar1 from '../../../assets/img/avt1.png';
+import avatar2 from '../../../assets/img/avt2.png';
+import avatar3 from '../../../assets/img/avt3.png';
+import avatar4 from '../../../assets/img/avt4.png';
 // ICONS
 import { BsFillCircleFill } from 'react-icons/bs';
 

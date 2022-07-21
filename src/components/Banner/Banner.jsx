@@ -1,8 +1,8 @@
 import React from 'react';
 // COMPONENTS
-import Users from '../Users/Users';
+import Users from './Users/Users';
 // IMG
-import Img from '../../img/banner-img.svg';
+import Img from '../../assets/img/banner-img.svg';
 
 const Banner = () => {
   return (
