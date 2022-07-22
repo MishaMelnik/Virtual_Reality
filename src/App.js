@@ -6,6 +6,7 @@ import Experience from './components/Experience/Experience';
 import Video from './components/Video/Video';
 import Headsets from './components/Headsets/Headsets';
 import Testimonial from './components/Testimonial/Testimonial';
+import Explore from './components/Explore/Explore';
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Video />
       <Headsets />
       <Testimonial />
+      <Explore />
     </div>
   );
 };
