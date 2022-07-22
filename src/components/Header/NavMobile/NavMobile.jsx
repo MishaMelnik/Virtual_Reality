@@ -13,16 +13,16 @@ const NavMobile = (props) => {
         <IoClose onClick={() => setMenu(false)} className="lg:hidden absolute text-3xl left-4 top-6 cursor-pointer" />
         <ul className="flex flex-col items-center justify-center space-y-8 h-full font-secondary">
           <li className="text-lg">
-            <a href="src/components/Header/NavMobile/NavMobile#">Home</a>
+            <a href="#">Home</a>
           </li>
           <li className="text-lg">
-            <a href="src/components/Header/NavMobile/NavMobile#">Company</a>
+            <a href="#">Company</a>
           </li>
           <li className="text-lg">
-            <a href="src/components/Header/NavMobile/NavMobile#">Features</a>
+            <a href="#">Features</a>
           </li>
           <li className="btn">
-            <a href="src/components/Header/NavMobile/NavMobile#">Sign in</a>
+            <a href="#">Sign in</a>
           </li>
         </ul>
       </div>

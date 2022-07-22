@@ -5,16 +5,16 @@ const Nav = () => {
     <div className="hidden lg:flex">
       <ul className="flex items-center space-x-12 font-secondary">
         <li className="nav-link">
-          <a href="src/components/Header/Nav/Nav#">Home</a>
+          <a href="#">Home</a>
         </li>
         <li className="nav-link">
-          <a href="src/components/Header/Nav/Nav#">Company</a>
+          <a href="#">Company</a>
         </li>
         <li className="nav-link">
-          <a href="src/components/Header/Nav/Nav#">Features</a>
+          <a href="#">Features</a>
         </li>
         <li className="btn">
-          <a href="src/components/Header/Nav/Nav#">Sign in</a>
+          <a href="#">Sign in</a>
         </li>
       </ul>
     </div>
