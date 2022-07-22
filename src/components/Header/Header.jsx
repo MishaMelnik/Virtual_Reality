@@ -10,7 +10,7 @@ import { HiOutlineMenu } from 'react-icons/hi';
 const Header = () => {
   const [menu, setMenu] = useState(false);
   return (
-    <div className="py-6">
+    <div className="py-6" data-aos="fade-down" data-aos-duration="2000" data-aos-delay="900">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
           <a href="#">
