@@ -12,35 +12,31 @@ const Headsets = () => {
         <h2 className="text-3xl font-bold mb-6">Mixed Reality Headsets</h2>
         <div className="grid gap-y-4 lg:grid-cols-2 lg:gap-9">
           <div className="relative">
-            <img className="" src={headsets1} alt="headsets1" />
+            <img src={headsets1} alt="headsets1" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-10">
               <h4 className="font-semibold text-xl mb-2">Metaverse</h4>
-              <p className="">A Network of 3D virtual worlds focused on social connection. </p>
+              <p>A Network of 3D virtual worlds focused on social connection. </p>
             </div>
           </div>
           <div className="relative">
-            <img className="" src={headsets2} alt="headsets2" />
+            <img src={headsets2} alt="headsets2" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">AIoT</h4>
-              <p className="">AI and IoT are both emerging innovative technologies with a lot of potentials. </p>
+              <p>AI and IoT are both emerging innovative technologies with a lot of potentials. </p>
             </div>
           </div>
           <div className="relative">
-            <img className="" src={headsets3} alt="headsets3" />
+            <img src={headsets3} alt="headsets3" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">HoloLens</h4>
-              <p className="">
-                HoloLens display information, blend with the real world , or even simulate a virtual world.{' '}
-              </p>
+              <p>HoloLens display information, blend with the real world , or even simulate a virtual world. </p>
             </div>
           </div>
           <div className="relative">
-            <img className="" src={headsets4} alt="headsets4" />
+            <img src={headsets4} alt="headsets4" />
             <div className="absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6">
               <h4 className="font-semibold text-xl mb-2">TPCASTT</h4>
-              <p className="">
-                Method is great to start students reading and inferring with little assistance from the instructor
-              </p>
+              <p>Method is great to start students reading and inferring with little assistance from the instructor</p>
             </div>
           </div>
         </div>

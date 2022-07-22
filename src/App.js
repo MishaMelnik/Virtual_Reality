@@ -5,6 +5,7 @@ import Header from './components/Header/Header';
 import Experience from './components/Experience/Experience';
 import Video from './components/Video/Video';
 import Headsets from './components/Headsets/Headsets';
+import Testimonial from './components/Testimonial/Testimonial';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Experience />
       <Video />
       <Headsets />
+      <Testimonial />
     </div>
   );
 };
