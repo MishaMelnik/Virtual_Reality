@@ -4,6 +4,7 @@ import Banner from './components/Banner/Banner';
 import Header from './components/Header/Header';
 import Experience from './components/Experience/Experience';
 import Video from './components/Video/Video';
+import Headsets from './components/Headsets/Headsets';
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Banner />
       <Experience />
       <Video />
+      <Headsets />
     </div>
   );
 };
